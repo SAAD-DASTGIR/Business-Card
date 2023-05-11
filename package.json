@@ -1,0 +1,19 @@
+{
+  "name": "project",
+  "dependencies": {
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.0",
+    "babel-loader": "^7.0",
+    "babel-preset-env": "*",
+    "babel-preset-react": "*",
+    "webpack": "^2.0"
+  },
+  "scripts": {
+    "build": "webpack",
+    "start": "webpack -w",
+    "watch": "webpack -w"
+  }
+}

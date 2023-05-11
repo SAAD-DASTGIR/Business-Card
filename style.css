@@ -1,0 +1,146 @@
+ .parent{
+    background: #23252C;
+    margin: 0;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    
+} 
+.background{
+    position: absolute;
+    width: auto;
+    height:auto;
+    width: 525px;
+    left: 165px;
+    top: 53px;
+    margin-bottom: 0px;
+    background: #23252C;
+    margin-left: 33.33%;
+    margin-right: 33.33%;
+    
+}
+header img{
+    width:fit-content;
+    align-items: center;
+    text-align: center;
+    display:flex;
+    padding: 0px;
+    width: 525px;
+    height: 317px;
+    margin-bottom: 0px;
+    border-radius: 10px;
+    /* margin-left: 33.33%;
+    margin-right: 33.33%; */
+}
+.main{
+ 
+    color: #FFFFFF;
+    background: #1A1B21;
+    margin-top:-23px;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Kumbh Sans', sans-serif;
+    font-family: 'Outfit', sans-serif;
+}
+.main h1{
+    padding-top: 25px;
+    text-align: center;
+    font-size: 25px;
+}
+
+.main h3{
+    color: #F3BF99;
+    font-size: 13px;
+    font-weight: 400;
+    text-align: center;
+}
+.website{
+    font-family: 'Inter';
+    font-size: 10.24px;
+    text-align: center;
+    color: #F5F5F5;
+}
+.email{
+    margin-top: 20px;
+    margin-left: 90px;
+    margin-bottom: 30px;
+    width: 115px;
+    height: 34px;
+    justify-content: center; 
+    background: #FFFFFF;
+    border-radius: 6px;
+    padding-top: 5px;
+    padding-bottom: 2px;
+    border: 1px solid #D1D5DB;
+    text-decoration: dotted;
+}
+.linkedin{
+    color: #F5F5F5;
+    margin-top: 20px;
+    margin-left: 140px;
+    width: 115px;
+    height: 34px;
+    background: #5093E2;
+    border-radius: 6px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    padding-right: 5px;
+    border: 1px solid #D1D5DB;
+}
+h2{
+    /* text-align: center; */
+    margin-left: 60px;
+    margin-top: 20px; 
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+}
+.description{
+    margin-left: 60px;
+    font-size: 13px;
+    font-weight: 400;
+    text-align: left;
+    padding-right: 20px;
+}
+.interest{
+    margin-left: 60px;
+    font-size: 13px;
+    font-weight: 400;
+    text-align: left;
+}
+.ul-footer{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    background: #161619;
+    margin-top:-17px;
+    padding-top: 15px;
+    padding-bottom: 10px;
+}
+.credit{
+    color: #F5F5F5;
+    background: #161619;
+    margin-top:-17px;
+    font-size: 8px;
+    text-align: end;
+}
+.education-description{
+    margin-left: 60px;
+    font-size: 13px;
+    font-weight: 400;
+    text-align:left;
+    text-align: justify;
+    padding-right: 30px;
+}
+.call-to-action{
+    margin-left: 60px;
+    font-size: 13px;
+    font-weight: 400;
+    text-align: left;
+    padding-bottom: 18px;
+    padding-right: 10px;
+
+}
+
+
